@@ -1,16 +1,15 @@
 ---
-date: "2014-04-09"
+date: "2022-02-09"
 title: "About"
 ---
 
-Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+Ini merupakan blog pribadi yang menggunakan engine dari [Hugo]((https://github.com/gohugoio)). Pada mulanya dibuat untuk fokus memberikan informasi aktual seputar gadget dan software. Blog ini mengulas segala sesuatu secara mendetail namun to the point dengan gaya bahasa sedikit baku namun terkadang juga ngawur. Penulis berusaha menghindari berita-berita umum yang hampir semua blog membahasnya sehingga wajar apabila jarang di update.
 
-It makes use of a variety of open source projects including:
+Untuk yang ingin berkomunikasi dengan saya bisa melalui media sosial di bawah ini.
 
-* https://github.com/russross/blackfriday
-* https://github.com/alecthomas/chroma
-* https://github.com/muesli/smartcrop
-* https://github.com/spf13/cobra
-* https://github.com/spf13/viper
+1. [Instagram](https://www.instagram.com/aditntya/)
+1. [Telegram](https://t.me/s/teknodua)
+1. [Buzzfeed](https://www.buzzfeed.com/adityasukandi)
+1. [XDA Developer](https://forum.xda-developers.com/m/aditdantya.11993667/about)
+1. [Ted](https://www.ted.com/profiles/33076570/about)
 
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
