@@ -38,3 +38,4 @@ Setelah menyelesaikan langkah-langkah yang disebutkan di atas, Menu Start akan d
 
 Seperti itulah panduan cara memindahkan posisi Start Menu Windows 11 dan pengguna yang memiliki metode lain untuk melakukannya maka dapat memberikan informasinya pada kolom di bawah ini.
 
+[Sumber](https://aditya325.hashnode.dev/)

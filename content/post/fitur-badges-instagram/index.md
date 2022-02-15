@@ -34,4 +34,6 @@ Anda dapat membeli lencana ini selama live streaming untuk menunjukkan cinta dan
  	<li>Kelola pembayaran Anda baik di Google Play Store atau iOS App Store</li>
  	<li>Tambahkan komentar.</li>
 </ol>
-Jadi, ini dia, cara menggunakan badges di Instagram. Menyukai pembaruan Ruang Langsung tetapi masih tidak menggunakan Instagram? Unduh langsung dari <a href="https://play.google.com/store/apps/details?id=com.instagram.android&amp;hl=en_IN&amp;gl=US" target="_blank" rel="noreferrer noopener">Google Play Store</a> atau <a href="https://apps.apple.com/in/app/instagram/id389801252" target="_blank" rel="noreferrer noopener">iOS App Store</a> .
+Jadi, ini dia, cara menggunakan badges di Instagram. Menyukai pembaruan Ruang Langsung tetapi masih tidak menggunakan Instagram? Unduh langsung dari <a href="https://play.google.com/store/apps/details?id=com.instagram.android&amp;hl=en_IN&amp;gl=US" target="_blank" rel="noreferrer noopener">Google Play Store</a> atau <a href="https://apps.apple.com/in/app/instagram/id389801252" target="_blank" rel="noreferrer noopener">iOS App Store</a>.
+
+[Sumber](https://aroem.hashnode.dev/)
