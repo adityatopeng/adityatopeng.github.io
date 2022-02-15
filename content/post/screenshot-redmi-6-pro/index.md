@@ -5,7 +5,7 @@ description: "Tahukah Anda bahwa ada beberapa fitur rahasia Realme yang mungkin 
 keywords: "screenshot,realme 6 pro,realme"
 ---
 
-![Screenshot Realme 6 Pro](/cara-mudah-mengambil-screenshot-realme-6-pro-seri-snapdragon-720g/screenshot-realme-6-pro.webp)
+![Screenshot Realme 6 Pro](/screenshot-redmi-6-pro/screenshot-realme-6-pro.webp)
 
 Tahukah Anda bahwa ada beberapa fitur rahasia Realme yang mungkin jarang diketahui pengguna untuk mengambil screenshot. Fitur tersebut bisa dibilang sangat mudah karena hanya perlu menggesek layar dengan 3 jari. Terlepas dari fitur bawaan ini, kita juga dapat memanfaatkan aplikasi pihak ketiga untuk mengambil tangkapan layar.
 
@@ -25,7 +25,7 @@ Selanjutnya untuk mengambil SS tanpa menekan tombol, kita dapat memanfaatkan fit
 ## Cara Screenshot Realme 6 Pro Menggunakan 3 Jari
 Cara kedua, Anda dapat mengambil screenshot hanya dengan tiga jari pada Realme 6, caranya sangat mudah, hanya dengan menggesek layar dengan tiga jari. Menggesek layar dengan tiga jari akan langsung membuat ponsel bisa mengambil screenshot. Tapi sebelumnya kamu harus mengaktifkan fitur 3-finger swipe down, untuk caranya ikuti langkah berikut ini.
 
-![Screenshot 3 jari Realme 6 Pro](/cara-mudah-mengambil-screenshot-realme-6-pro-seri-snapdragon-720g/screenshot-3-jari.jpg)
+![Screenshot 3 jari Realme 6 Pro](/screenshot-redmi-6-pro/screenshot-3-jari.jpg)
 
 Masuk menu **Settings** >> **Additional settings** >> **Screenshot** >> **3-finger swipe down** (Gesek Turun 3 Jari).
 
@@ -38,7 +38,7 @@ Realme 6 Pro juga akan dilengkapi dengan fitur SS panjang, dimana untuk mengguna
 
 Fitur long screenshot umumnya digunakan oleh pengguna yang ingin mengambil screenshot hingga scroll ke bawah. Jangan lupa cara long screenshot Realme ini bisa digunakan di berbagai tipe lainnya dengan Realme UI 1.0.
 
-![Screenshot panjang Realme](/cara-mudah-mengambil-screenshot-realme-6-pro-seri-snapdragon-720g/screenshot-panjang-realme.jpg)
+![Screenshot panjang Realme](/screenshot-redmi-6-pro/screenshot-panjang-realme.jpg)
 
 1. Pilih bagian layar yang akan di screenshot.
 1. Lakukan ss dengan mengesek tiga jari ke bawah.
